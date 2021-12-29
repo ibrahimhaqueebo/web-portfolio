@@ -1,3 +1,44 @@
 span.peter.parker {
     color: orange;
 }
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.fifst-section {
+    width: 50%;
+    float: left;
+   
+}
+.send-section{
+    width: 50%;
+    float: left;
+}
+.send-section img{
+    width: 100%;
+
+}
+.header {
+    background-image: url("img/top.png");
+    
+}
+section {
+ 
+    height: 500px;
+}
+.wel {
+    font-size: 50px;
+    margin-left: 90px;
+}
+
+h1.world {
+    margin-left: 90px;
+    font-size: 40px;
+}
+h3.build {
+    font-size: 22px;
+    margin-left: 90px;
+}
+p.you-might {
+    margin-left: 90px;
+}
